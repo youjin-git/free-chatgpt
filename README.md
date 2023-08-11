@@ -2,7 +2,7 @@
 
 如果你正在寻找一个快速稳定、使用体验良好的ChatGPT国内镜像，以下网站值得一试：
 
-## https://chat.douresources.com
+## https://ai.douresources.com
 - 快速稳定
 - 免费使用
 - 无限次数
